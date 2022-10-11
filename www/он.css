@@ -1,0 +1,25 @@
+body {
+	background-image: url(https://static.wikia.nocookie.net/hello-neighbor-game/images/9/9f/Room.png/revision/latest/scale-to-width-down/1000?cb=20200428081759&path-prefix=ru);
+}
+
+h1{
+	color: white;
+}
+
+a {
+	color: white;
+	position: relative;
+	left: 450px;
+}
+
+h1 {
+	color: white;
+	position: relative;
+	left: 300px;
+}
+
+img {
+	position: relative;
+	bottom: 1px;
+	left: 450px;
+}
